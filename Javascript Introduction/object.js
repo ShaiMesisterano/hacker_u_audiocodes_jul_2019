@@ -29,6 +29,9 @@
 //         size: 45
 //     }
 // }
+// for (let [key, value] of Object.entries(shai)){
+//     console.log("key", key, "value", value);
+// }
 //console.log(shai.age);
 // let key = "shoes";
 // let keys = ['age', 'shoes'];

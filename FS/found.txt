@@ -1,0 +1,3 @@
+found.txt
+hebrew.txt
+lorem.txt
